@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\repositories\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.core.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|solutionrelative:bellbanking.core.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\repositories\\beneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\repositories\\beneficiaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.infrastructure.persistence\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB205F5C-260F-468E-AE7F-69D63DF21AC7}|BellBanking.Infrastructure.Persistence\\BellBanking.Infrastructure.Persistence.csproj|solutionrelative:bellbanking.infrastructure.persistence\\contexts\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.core.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|solutionrelative:bellbanking.core.domain\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.core.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,36 +46,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 91,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Beneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:25:41.408Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Beneficiary.cs",
-              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
-              "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
-              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
-              "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "DocumentIndex": 1,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\Repositories\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\TransactionRepository.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\Repositories\\TransactionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T00:25:41.408Z",
+              "WhenOpened": "2024-07-03T15:38:05.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:37:52.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BeneficiaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\BeneficiaryRepository.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\Repositories\\BeneficiaryRepository.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\BeneficiaryRepository.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\Repositories\\BeneficiaryRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:37:36.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:27:23.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\ServiceRegistration.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\ServiceRegistration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T15:26:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Product.cs",
               "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Product.cs",
               "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T00:11:45.546Z",
+              "WhenOpened": "2024-07-03T02:14:02.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Contexts\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "BellBanking.Infrastructure.Persistence\\Contexts\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Infrastructure.Persistence\\Contexts\\ApplicationContext.cs",
+              "RelativeToolTip": "BellBanking.Infrastructure.Persistence\\Contexts\\ApplicationContext.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAmwHkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T01:02:27.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Transaction.cs",
+              "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:45:03.532Z",
               "EditorCaption": ""
             }
           ]

@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BellBanking", "BellBanking\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BellBanking.Infrastructure.Persistence", "BellBanking.Infrastructure.Persistence\BellBanking.Infrastructure.Persistence.csproj", "{DB205F5C-260F-468E-AE7F-69D63DF21AC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BellBanking.Core.Domain", "BellBanking.Core.Domain\BellBanking.Core.Domain.csproj", "{C1C01482-6F81-40F6-A085-128E6D1FE72B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BellBanking.Core.Domain", "BellBanking.Core.Domain\BellBanking.Core.Domain.csproj", "{C1C01482-6F81-40F6-A085-128E6D1FE72B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
