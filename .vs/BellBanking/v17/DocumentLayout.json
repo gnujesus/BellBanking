@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\projects\\itla\\BellBanking\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.core.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|solutionrelative:bellbanking.core.domain\\entities\\beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|c:\\users\\nestor emilio\\source\\repos\\bellbanking\\bellbanking.core.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1C01482-6F81-40F6-A085-128E6D1FE72B}|BellBanking.Core.Domain\\BellBanking.Core.Domain.csproj|solutionrelative:bellbanking.core.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 91,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Beneficiary.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Beneficiary.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:25:41.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "BellBanking.Core.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking.Core.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "BellBanking.Core.Domain\\Entities\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T00:11:45.546Z",
+              "EditorCaption": ""
             }
           ]
         }
