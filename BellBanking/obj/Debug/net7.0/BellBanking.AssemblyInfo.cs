@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BellBanking")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9942f24db0966c96d5d23a00961e67ca90a2a227")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80724038622f950af3ff7fd8f55274be76e769e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BellBanking")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BellBanking")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

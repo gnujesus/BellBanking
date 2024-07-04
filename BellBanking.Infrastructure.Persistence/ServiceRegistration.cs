@@ -1,4 +1,5 @@
-﻿using BellBanking.Infrastructure.Persistence.Contexts;
+﻿using BellBanking.Core.Application.Interfaces.Repositories;
+using BellBanking.Infrastructure.Persistence.Contexts;
 using BellBanking.Infrastructure.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -29,10 +30,10 @@ namespace BellBanking.Infrastructure.Persistence
             #endregion
 
             #region Repositories
-            //services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-            //services.AddTransient<IProductRepository, ProductRepository>();
-            //services.AddTransient<IBeneficiaryRepository, BeneficiaryRepository>();
-            //services.AddTransient<ITransactionRepository, TransactionRepository>();
+            services.AddTransient(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IBeneficiaryRepository, BeneficiaryRepository>();
+            services.AddTransient<ITransactionRepository, TransactionRepository>();
             #endregion
         }
     }

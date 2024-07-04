@@ -1,4 +1,5 @@
-﻿using BellBanking.Infrastructure.Persistence.Contexts;
+﻿using BellBanking.Core.Application.Interfaces.Repositories;
+using BellBanking.Infrastructure.Persistence.Contexts;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
