@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\projects\\itla\\BellBanking\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|c:\\projects\\itla\\bellbanking\\bellbanking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{228B3D5A-0CB2-4287-986F-E9EAE2D35521}|BellBanking\\BellBanking.csproj|solutionrelative:bellbanking\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BellBanking\\Views\\_ViewImports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\projects\\itla\\BellBanking\\BellBanking\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "BellBanking\\Controllers\\HomeController.cs",
@@ -67,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "BellBanking\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -79,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\projects\\itla\\BellBanking\\BellBanking\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "BellBanking\\Views\\Shared\\_Layout.cshtml",
@@ -87,8 +87,7 @@
               "RelativeToolTip": "BellBanking\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-03T02:20:28.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T02:20:28.154Z"
             },
             {
               "$type": "Document",
