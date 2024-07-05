@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-=======
-<Project Sdk="Microsoft.NET.Sdk">
->>>>>>> a58eeb483568444a291baf8740922793058765f9
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
@@ -11,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-<<<<<<< HEAD
     <Folder Include="Interfaces\Repositories\" />
   </ItemGroup>
 
@@ -22,24 +17,6 @@
     <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.2.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.20" />
     <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="7.0.0" />
-=======
-    <Folder Include="Interfaces\Services\" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="AutoMapper" Version="12.0.1" />
-    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
-    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.1.34" />
-    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.1.1" />
-    <PackageReference Include="Microsoft.AspNetCore.Http.Extensions" Version="2.1.21" />
-    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.20" />
-    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="7.0.0" />
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <ProjectReference Include="..\BellBanking.Core.Domain\BellBanking.Core.Domain.csproj" />
->>>>>>> a58eeb483568444a291baf8740922793058765f9
   </ItemGroup>
 
 </Project>
