@@ -1,3 +1,27 @@
+<<<<<<< HEAD
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BellBanking/1.0.0": {
+        "runtime": {
+          "BellBanking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BellBanking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+=======
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v7.0",
@@ -1312,4 +1336,5 @@
       "sha512": ""
     }
   }
+>>>>>>> ed3a4495b23e7c131681cbe12bd4590647586ed7
 }
