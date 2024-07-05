@@ -7,7 +7,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+<<<<<<< HEAD
     <Folder Include="wwwroot\static\images\" />
+=======
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.20">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BellBanking.Core.Application\BellBanking.Core.Application.csproj" />
+    <ProjectReference Include="..\BellBanking.Infraestructure.Identity\BellBanking.Infraestructure.Identity.csproj" />
+>>>>>>> ed3a4495b23e7c131681cbe12bd4590647586ed7
   </ItemGroup>
 
 </Project>
