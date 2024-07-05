@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BellBanking.Core.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ee6ffdcfc2fc43726d6f22b4f63eacdb45fe8c3")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99b8b153ae55378f24bf12475c744c7cb1617c14")]
+>>>>>>> merge-branch
 [assembly: System.Reflection.AssemblyProductAttribute("BellBanking.Core.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BellBanking.Core.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

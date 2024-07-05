@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> merge-branch
 {
   "runtimeOptions": {
     "tfm": "net7.0",
@@ -14,6 +17,7 @@
     ],
     "configProperties": {
       "System.GC.Server": true,
+<<<<<<< HEAD
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
     }
   }
@@ -38,4 +42,10 @@
     }
   }
 >>>>>>> ed3a4495b23e7c131681cbe12bd4590647586ed7
+=======
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+>>>>>>> merge-branch
 }
