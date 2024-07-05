@@ -3619,23 +3619,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jotam\\.nuget\\packages\\": {},
+    "C:\\Users\\Nestor Emilio\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
+      "projectUniqueName": "C:\\Users\\Nestor Emilio\\Source\\Repos\\BellBanking\\BellBanking\\BellBanking.csproj",
       "projectName": "BellBanking",
-      "projectPath": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
-      "packagesPath": "C:\\Users\\jotam\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\itla\\BellBanking\\BellBanking\\obj\\",
+      "projectPath": "C:\\Users\\Nestor Emilio\\Source\\Repos\\BellBanking\\BellBanking\\BellBanking.csproj",
+      "packagesPath": "C:\\Users\\Nestor Emilio\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Nestor Emilio\\Source\\Repos\\BellBanking\\BellBanking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\jotam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nestor Emilio\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -3644,6 +3644,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3700,7 +3701,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
