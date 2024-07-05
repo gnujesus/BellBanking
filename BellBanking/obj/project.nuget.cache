@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "fbRfuQmtiUZoOsGKPVYN0thP8niRWgG7XvnjrIIFbvzFe06leqsKOPDS3ZdpzGMpdTZMvsjeRAad+xdnAKpkew==",
   "success": true,
   "projectFilePath": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
@@ -84,5 +85,11 @@
     "C:\\Users\\jotam\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\jotam\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "Li4WrSexlhUopcAq0FhGrmgoeJBRYk2hF+SiiWUmZi6GhuOT2sMqusS/yHkOl5+3Bb7tcy/KKFMNiJRndqNhbQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nestor Emilio\\source\\repos\\BellBanking\\BellBanking\\BellBanking.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> a58eeb483568444a291baf8740922793058765f9
   "logs": []
 }
