@@ -15,3 +15,21 @@ C:\Users\DELL\Desktop\ITLA\5to Cuatrimestre\Prog III\BellBanking\BellBanking.Inf
 C:\Users\DELL\Desktop\ITLA\5to Cuatrimestre\Prog III\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.pdb
 C:\Users\DELL\Desktop\ITLA\5to Cuatrimestre\Prog III\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.genruntimeconfig.cache
 C:\Users\DELL\Desktop\ITLA\5to Cuatrimestre\Prog III\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\ref\BellBanking.Infraestructure.Identity.dll
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Infraestructure.Identity.deps.json
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Infraestructure.Identity.runtimeconfig.json
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Infraestructure.Identity.dll
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Infraestructure.Identity.pdb
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Core.Application.dll
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\bin\Debug\net7.0\BellBanking.Core.Application.pdb
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.csproj.AssemblyReference.cache
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.AssemblyInfoInputs.cache
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.AssemblyInfo.cs
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.csproj.CoreCompileInputs.cache
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.sourcelink.json
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBank.B398165B.Up2Date
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.dll
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\refint\BellBanking.Infraestructure.Identity.dll
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.pdb
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\BellBanking.Infraestructure.Identity.genruntimeconfig.cache
+C:\projects\itla\BellBanking\BellBanking.Infraestructure.Identity\obj\Debug\net7.0\ref\BellBanking.Infraestructure.Identity.dll
