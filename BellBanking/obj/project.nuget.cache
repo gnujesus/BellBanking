@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GzQxR4ibxSdu/E8xV4l7mD4HXhKh0Gyu+2sLMUjnVQGm4YUiZtaFrqPiL214Wm1x5TXXflHFHHtCsUz7/2/H9w==",
+  "dgSpecHash": "mAcmtL/dhw6RI98FawF3s+OQsLy491RBSZexZiV6L19JSQiEqcRaSdlooK1T56zIEUKmvq0ThOxYhGNvoNWUyg==",
   "success": true,
-  "projectFilePath": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
+  "projectFilePath": "C:\\projects\\itla\\BellBanking\\BellBanking\\WebApp.BellBanking.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

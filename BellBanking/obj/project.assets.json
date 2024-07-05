@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
-      "projectName": "BellBanking",
-      "projectPath": "C:\\projects\\itla\\BellBanking\\BellBanking\\BellBanking.csproj",
+      "projectUniqueName": "C:\\projects\\itla\\BellBanking\\BellBanking\\WebApp.BellBanking.csproj",
+      "projectName": "WebApp.BellBanking",
+      "projectPath": "C:\\projects\\itla\\BellBanking\\BellBanking\\WebApp.BellBanking.csproj",
       "packagesPath": "C:\\Users\\jotam\\.nuget\\packages\\",
       "outputPath": "C:\\projects\\itla\\BellBanking\\BellBanking\\obj\\",
       "projectStyle": "PackageReference",
